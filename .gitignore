@@ -1,0 +1,6 @@
+
+# Dados brutos e pesados
+data/raw/
+data/embeddings/
+disciplines/image_processing/frames/
+results/a2/*/logs/
